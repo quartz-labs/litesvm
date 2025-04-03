@@ -87,7 +87,7 @@ spl-associated-token-account-client = "2.0"
 spl-token = "7.0.0"
 spl-token-2022 = "7.0.0"
 test-log = "0.2"
-thiserror = "2.0"
+thiserror = "1.0.65"
 tokio = "1.35"
 
 [profile.bench]

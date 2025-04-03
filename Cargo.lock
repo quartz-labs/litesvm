@@ -2525,7 +2525,7 @@ dependencies = [
  "spl-associated-token-account-client",
  "spl-token",
  "test-log",
- "thiserror 2.0.12",
+ "thiserror 1.0.69",
  "tokio",
 ]
 
